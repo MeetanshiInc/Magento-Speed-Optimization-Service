@@ -1,5 +1,5 @@
 # Magento Speed Optimization Service
-Facilitates speeding up your online store with Meetanshi’s [***Magento Speed Optimization Service***](https://meetanshi.com/woocommerce-to-shopify-migration-service.html) and get the most out of your online store!
+Facilitates speeding up your online store with Meetanshi’s [***Magento Speed Optimization Service***](https://meetanshi.com/magento-speed-optimization-service.html) and get the most out of your online store!
 
 Having a slow-loading speed can create negative impact in the minds of users. The research also shows that mobile users may leave the site if it takes more than three seconds to load. It can lead to pogo-sticking and can even reduce the bounce rates. The only solution is to avail Meetanshi’s Magento Speed Optimization Service!
 
